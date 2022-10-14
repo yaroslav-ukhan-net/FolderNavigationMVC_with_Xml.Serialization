@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Folders>
+  <Folder Name="Creating Digital Images">
+    <Id>0</Id>
+    <IdFather>-1</IdFather>
+  </Folder>
+  <Folder Name="Resources">
+    <Id>1</Id>
+    <IdFather>0</IdFather>
+  </Folder>
+  <Folder Name="Evidence">
+    <Id>2</Id>
+    <IdFather>0</IdFather>
+  </Folder>
+  <Folder Name="Graphic Products">
+    <Id>3</Id>
+    <IdFather>0</IdFather>
+  </Folder>
+  <Folder Name="Primary Sources">
+    <Id>4</Id>
+    <IdFather>1</IdFather>
+  </Folder>
+  <Folder Name="Secondary Sources">
+    <Id>5</Id>
+    <IdFather>1</IdFather>
+  </Folder>
+  <Folder Name="Process">
+    <Id>6</Id>
+    <IdFather>3</IdFather>
+  </Folder>
+  <Folder Name="Final Product">
+    <Id>7</Id>
+    <IdFather>3</IdFather>
+  </Folder>
+</Folders>

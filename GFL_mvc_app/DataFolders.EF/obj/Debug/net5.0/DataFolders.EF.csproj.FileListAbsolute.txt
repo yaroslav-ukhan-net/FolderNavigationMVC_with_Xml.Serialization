@@ -1,0 +1,15 @@
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\bin\Debug\net5.0\DataFolders.EF.deps.json
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\bin\Debug\net5.0\DataFolders.EF.dll
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\bin\Debug\net5.0\ref\DataFolders.EF.dll
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\bin\Debug\net5.0\DataFolders.EF.pdb
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\bin\Debug\net5.0\Models.dll
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\bin\Debug\net5.0\Models.pdb
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.csproj.AssemblyReference.cache
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.AssemblyInfoInputs.cache
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.AssemblyInfo.cs
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.csproj.CoreCompileInputs.cache
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.csproj.CopyComplete
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.dll
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\ref\DataFolders.EF.dll
+D:\coding\work\GFL\project\GFL_mvc_app\DataFolders.EF\obj\Debug\net5.0\DataFolders.EF.pdb

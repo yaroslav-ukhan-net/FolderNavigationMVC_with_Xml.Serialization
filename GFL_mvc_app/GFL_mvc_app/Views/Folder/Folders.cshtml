@@ -1,0 +1,36 @@
+﻿@model GFL_mvc_app.ViewModels.FoldersViewModel
+
+
+        <div class="form-horizontal">
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <h4>"Folder" - @Model.Name</h4>
+
+            </nav>
+            @Html.HiddenFor(m => Model.Id)
+
+        <div class="container">
+
+            <table border-collapse="collaps">
+                <tr>
+                    <td class="align-top">
+                        <table class="table table-bordered" style="border-collapse:separate">
+
+                            @for (var i = 0; i < Model.under.Count; i++)
+                            {
+                                <tr>
+                                    <td bgcolor="#D3EDF6" style="padding:0px">
+                                        <a class="nav-link text-dark" asp-controller="Folder" asp-action="Folders" asp-route-id="@Model.under[i].Id">@Model.under[i].Name</a>
+                                    </td>
+                                </tr>
+                            }
+                        </table>
+                    </td>
+                </tr>
+
+            </table>
+            @if (Model.IdFather != -1)
+            {
+            <a class="nav-link text-dark" asp-controller="Folder" asp-action="Folders" asp-route-id="@Model.IdFather">Previous⬅</a>
+            }
+        </div>
+        </div>

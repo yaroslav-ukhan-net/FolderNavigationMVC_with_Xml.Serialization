@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Folders>
+  <Folder Name="FirstFolder">
+    <Id>0</Id>
+    <IdFather>-1</IdFather>
+  </Folder>
+  <Folder Name="2Folder">
+    <Id>1</Id>
+    <IdFather>0</IdFather>
+  </Folder>
+  <Folder Name="3Folder">
+    <Id>2</Id>
+    <IdFather>0</IdFather>
+  </Folder>
+  <Folder Name="4Folder">
+    <Id>3</Id>
+    <IdFather>1</IdFather>
+  </Folder>
+  <Folder Name="5Folder">
+    <Id>4</Id>
+    <IdFather>1</IdFather>
+  </Folder>
+  <Folder Name="6Folder">
+    <Id>5</Id>
+    <IdFather>3</IdFather>
+  </Folder>
+  <Folder Name="ЕКСПОРТ">
+    <Id>6</Id>
+    <IdFather>0</IdFather>
+  </Folder>
+</Folders>
